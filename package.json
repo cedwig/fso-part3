@@ -1,0 +1,19 @@
+{
+  "name": "fso-part3",
+  "version": "1.0.0",
+  "description": "Backend of a phonebook application for fullstackopen part3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cedric Ludwig",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
